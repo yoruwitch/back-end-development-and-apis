@@ -1,0 +1,16 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "a prime number checker module for studies",
+  "keywords": [
+    "learning",
+    "nodejs"
+  ],
+  "license": "MIT",
+  "author": "Evelyn Fernandes",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
